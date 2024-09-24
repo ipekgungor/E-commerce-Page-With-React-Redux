@@ -46,4 +46,3 @@ To run this project locally, follow these steps:
 ## Notes
 - **You may need to check these pages.** https://mui.com/material-ui/getting-started/ and https://react-bootstrap.netlify.app/
 
-
