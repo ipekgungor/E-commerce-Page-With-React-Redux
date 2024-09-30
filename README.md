@@ -27,16 +27,13 @@ To run this project locally, follow these steps:
    cd E-commerce-Page-With-React-Redux
 3. Install Dependencies:
    ```bash
-   npm install
-4. Run the Application:
-   ```bash
-   npm start
-5. Other Packages:
-   ```bash
    npm install react-router-dom
    npm install bootstrap@latest
    npm install @mui/material @emotion/react @emotion/styled @mui/icons-material
    npm install redux react-redux
+4. Run the Application:
+   ```bash
+   npm start
 
 ## Contact
 - **Developer:** İpek Güngör
